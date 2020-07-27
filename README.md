@@ -1,4 +1,4 @@
-# medical_analysis_demos
+# Демо проектов
 Демонстрации применения статистического анализа в медицинской сфере // Demos of statistical analysis applications in medical field
 
-Data was downloaded from Kaggle, links to datasets included in Notebooks // Наборы данных загружены с Kaggle, ссылки на источники в ноутбуках
+Наборы данных загружены с Kaggle, ссылки на источники в ноутбуках // Data was downloaded from Kaggle, links to datasets included in Notebooks
